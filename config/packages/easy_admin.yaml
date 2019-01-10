@@ -1,0 +1,19 @@
+easy_admin:
+    entities:
+#        # List the entity class name you want to manage
+        - App\Entity\Dakar
+        - App\Entity\Diaspora
+        - App\Entity\Diourbel
+        - App\Entity\Fatick
+        - App\Entity\Kaffrine
+        - App\Entity\Kaolack
+        - App\Entity\Kedougou
+        - App\Entity\Kolda
+        - App\Entity\Louga
+        - App\Entity\Matam
+        - App\Entity\SaintLouis
+        - App\Entity\Sedhiou
+        - App\Entity\Tambacounda
+        - App\Entity\Thies
+        - App\Entity\Ziguinchor
+
